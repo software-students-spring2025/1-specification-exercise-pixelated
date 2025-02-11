@@ -8,7 +8,19 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Forrest's roommate Johan, an NYU Alum and avid weightlifter was interviewed for his perspective on this application.
+
+### Johan's Goals/Needs/Desires for Caloric Tracking App
+- Simple and quick input of calorie intake
+- Ability to input and log common items / regular meals
+- No advertisements
+- Measurable goals and goal progress
+
+### Johan's Problems/Frustrations with current solutions
+- It is difficult to log your caloric intake outside of bloated software with unnecessary paid functionality
+- Input forms ask for too much non-essential information
+- Additional functionality of calorie trackers does not add value to the experience, instead it disincentivizes use
+- Basic calorie trackers do too little, advanced trackers do too much of the wrong thing. A healthy medium with basic functionality and genuinely useful functionality would go a long way to help
 
 ## Product Vision Statement
 
@@ -35,7 +47,9 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### Health Goal Tracking UML Diagram
+As a user, I want to see the progress I am making towards my weekly and monthly health goals, adjusting my habits accordingly.
+![Health Goals UML Diagram](images/UML1.png)
 
 ## Clickable Prototype
 
