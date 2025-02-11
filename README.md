@@ -33,17 +33,17 @@ FuelUp is a smart calorie tracking app that helps users monitor their daily inta
 
 ## User Requirements
 
-1. As a user, I want to see the ingredient list of a specific dish, so I can track groceries for my meals.
-2. As a user, I want to search for recipes using a search bar, so I can quickly find meals that match my preferences.
-3. As a user, I want to filter recipes based on protein type, dietary restrictions, and meal categories, so I can easily discover recipes that fit my nutritional needs.
-4. As a user, I want to save my favorite recipes, so I can easily access and plan balanced meals that fit my daily calorie goals.
-5. As a user, I want to read the articles published by others in the community, so I can know how others keep track of their calorie intake and design their healthy meal plan.
-6. As a user, I want to publish articles on creating healthy meal plans, so I can share my experience and help others in the community.
-7. As a user, I want to input, update, and view my profile information (such as name, weight, goal weight, and height) so that I can track my progress toward my target weight.
-8. As a user, I want to log meals with calorie values so that I can track my daily intake.
-9. As a user, I want to see a progress bar of my calorie intake so that I know how close I am to my daily goal.
+1. As a user, I want to input, update, and view my profile information (such as name, weight, goal weight, and height) so that I can track my progress toward my target weight.
+2. As a user, I want to log meals with calorie values so that I can track my daily intake.
+3. As a user, I want to see a progress bar of my calorie intake so that I know how close I am to my daily goal.
+4. As a user, I want to search for recipes using a search bar, so I can quickly find meals that match my preferences.
+5. As a user, I want to filter recipes based on protein type, dietary restrictions, and meal categories, so I can easily discover recipes that fit my nutritional needs.
+6. As a user, I want to save my favorite recipes, so I can easily access and plan balanced meals that fit my daily calorie goals.
+7. As a user, I want to see the ingredient list of a specific dish, so I can track groceries for my meals.
+8. As a user, I want to read the articles published by others in the community, so I can know how others keep track of their calorie intake and design their healthy meal plan.
+9. As a user, I want to publish articles on creating healthy meal plans, so I can share my experience and help others in the community.
 10. As a user, I want to see a historical log of my tracked calorie intakes so I know my health trends.
-11. Health Goal Tracking:** As a user, I want to see the progress I am making towards my weekly, monthly, and yearly health goals.
+11. As a user, I want to see the progress I am making towards my weekly, monthly, and yearly health goals, so that I can adjust my habits accordingly.
 
 ## Activity Diagrams
 
