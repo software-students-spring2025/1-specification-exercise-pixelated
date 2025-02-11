@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Jasmeen Kaur](https://github.com/jk7297)
+[Rin Qi](https://github.com/Rin-Qi)
+[Kai-Hsuan Chan](https://github.com/shayne773)
+[Forrest Williams](https://github.com/Zeklin)
 
 ## Stakeholders
 
@@ -24,21 +27,21 @@ Forrest's roommate Johan, an NYU Alum and avid weightlifter was interviewed for 
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+FuelUp is a smart calorie tracking app that helps users monitor their daily intake while seamlessly integrating recipe recommendations, analytics-driven progress tracking using a calendar feature, and an article hub for nutritional insights and motivation.
 
 ## User Requirements
 
-- **Ingredient List Viewing:** As a user, I want to see the ingredient list of a specific dish, so I can track groceries for my meals.
-- **Recipe Search:** As a user, I want to search for recipes using a search bar, so I can quickly find meals that match my preferences.
-- **Recipe Filtering:** As a user, I want to filter recipes based on protein type, dietary restrictions, and meal categories, so I can easily discover recipes that fit my nutritional needs.
-- **Favorite Recipes:** As a user, I want to save my favorite recipes, so I can easily access and plan balanced meals that fit my daily calorie goals.
-- **Reading Articles:** As a user, I want to read the articles published by others in the community, so I can know how others keep track of their calorie intake and design their healthy meal plan.
-- **Publishing Articles:** As a user, I want to publish articles on creating healthy meal plans, so I can share my experience and help others in the community.
-- **Profile Management:** As a user, I want to input, update, and view my profile information (such as name, weight, goal weight, and height) so that I can track my progress toward my target weight.
-- **Meal Logging:** As a user, I want to log meals with calorie values so that I can track my daily intake.
-- **Calorie Progress Bar:** As a user, I want to see a progress bar of my calorie intake so that I know how close I am to my daily goal.
-- **Historical Log:** As a user, I want to see a historical log of my tracked calorie intakes so I know my health trends.
-- **Health Goal Tracking:** As a user, I want to see the progress I am making towards my weekly, monthly, and yearly health goals.
+1. As a user, I want to see the ingredient list of a specific dish, so I can track groceries for my meals.
+2. As a user, I want to search for recipes using a search bar, so I can quickly find meals that match my preferences.
+3. As a user, I want to filter recipes based on protein type, dietary restrictions, and meal categories, so I can easily discover recipes that fit my nutritional needs.
+4. As a user, I want to save my favorite recipes, so I can easily access and plan balanced meals that fit my daily calorie goals.
+5. As a user, I want to read the articles published by others in the community, so I can know how others keep track of their calorie intake and design their healthy meal plan.
+6. As a user, I want to publish articles on creating healthy meal plans, so I can share my experience and help others in the community.
+7. As a user, I want to input, update, and view my profile information (such as name, weight, goal weight, and height) so that I can track my progress toward my target weight.
+8. As a user, I want to log meals with calorie values so that I can track my daily intake.
+9. As a user, I want to see a progress bar of my calorie intake so that I know how close I am to my daily goal.
+10. As a user, I want to see a historical log of my tracked calorie intakes so I know my health trends.
+11. Health Goal Tracking:** As a user, I want to see the progress I am making towards my weekly, monthly, and yearly health goals.
 
 ## Activity Diagrams
 
@@ -47,4 +50,4 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype](https://www.figma.com/proto/99YUc75ACVyAV0f16Hv84x/Pixelated?node-id=28-2&p=f&t=4cnw76sb9qU83dWv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=27%3A2)
