@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Jasmeen Kaur](https://github.com/jk7297)
-[Rin Qi](https://github.com/Rin-Qi)
-[Kai-Hsuan Chan](https://github.com/shayne773)
-[Forrest Williams](https://github.com/Zeklin)
+1. [Jasmeen Kaur](https://github.com/jk7297)
+2. [Rin Qi](https://github.com/Rin-Qi)
+3. [Kai-Hsuan Chan](https://github.com/shayne773)
+4. [Forrest Williams](https://github.com/Zeklin)
 
 ## Stakeholders
 
