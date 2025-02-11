@@ -14,12 +14,14 @@ A little exercise to get started with the specification phase of the software de
 Forrest's roommate Johan, an NYU Alum and avid weightlifter was interviewed for his perspective on this application.
 
 ### Johan's Goals/Needs/Desires for Caloric Tracking App
+
 - Simple and quick input of calorie intake
 - Ability to input and log common items / regular meals
 - No advertisements
 - Measurable goals and goal progress
 
 ### Johan's Problems/Frustrations with current solutions
+
 - It is difficult to log your caloric intake outside of bloated software with unnecessary paid functionality
 - Input forms ask for too much non-essential information
 - Additional functionality of calorie trackers does not add value to the experience, instead it disincentivizes use
@@ -46,7 +48,14 @@ FuelUp is a smart calorie tracking app that helps users monitor their daily inta
 ## Activity Diagrams
 
 ### Health Goal Tracking UML Diagram
-![Health Goals UML Diagram](images/UML1.png)
+
+As a user, I want to see the progress I am making towards my weekly and monthly health goals, so I can adjust my habits accordingly.
+![Health Goals UML Diagram](images/UML1.jpeg)
+
+### Article Publishing UML Diagram
+
+As a user, I want to publish articles about my experience on adjusting meal plans, so I can share my experience on it.
+![Publishing Articles UML Diagram](images/UML2.jpeg)
 
 ## Clickable Prototype
 
